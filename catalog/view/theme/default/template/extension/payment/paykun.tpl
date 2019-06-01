@@ -1,4 +1,3 @@
-{#Form is rendered by paykunData#}
 
 <?php echo $paykunData; ?>
 <div class="buttons">
