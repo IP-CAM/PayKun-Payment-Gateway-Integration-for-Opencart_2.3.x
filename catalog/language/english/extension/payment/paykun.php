@@ -4,7 +4,7 @@ $_['heading_title'] = 'Thank you for shopping with %s .... ';
 $_['button_confirm'] = 'Confirm Order';
 
 // Text
-$_['text_title'] = 'Credit Card / Debit Card (Paykun PG)';
+$_['text_title'] = 'Pay via Cards/Net-Banking/UPI/Wallets/QR Code with PayKun';
 $_['text_response'] = 'Response from Paykun:';
 $_['text_success'] = '... Your payment was successfully received.';
 $_['text_success_wait'] = '<b><span style="color: #FF0000">Please wait...</span></b> whilst we finish processing your order.<br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
